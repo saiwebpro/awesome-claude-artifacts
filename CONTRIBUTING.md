@@ -8,9 +8,9 @@ Thanks for wanting to contribute! Here's how to do it right.
 2. **Pick the right category.** If nothing fits, propose a new one in your PR description.
 3. **Use this row format:**
 
-   ```markdown
+```markdown
    | [Name](https://link-to-live-demo) | One-sentence description of what it does. | 🟢 Simple / 🟡 Medium / 🔴 Complex |
-   ```
+```
 
 4. **Link to something that actually works.** Prefer, in order of preference:
    - A live hosted version (GitHub Pages, CodePen, Vercel, etc.)
